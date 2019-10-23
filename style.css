@@ -1,0 +1,46 @@
+body {
+    margin:0;
+}
+#main {
+    top: 0px;
+}
+
+#head{
+    height: 50px;
+    width: 100%;
+    background: aqua;
+}
+
+#head-link {
+    height: 50px;
+    width: 100%;
+    background: blueviolet;
+}
+#left{
+    height: 365px;
+    width: 20%;
+    background: black;
+    float: left;
+}
+#content{
+    height: 365px;
+    width: 60%;
+    float: left;
+    background: brown;
+}
+#right{
+    height: 365px;
+    width: 20%;
+    background: chartreuse;
+    float: right;
+}
+#footer{
+    height: 100px;
+    width: 100%;
+    background: darkred;
+    clear: both;
+}
+
+
+
+
